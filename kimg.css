@@ -1,0 +1,38 @@
+body{
+    background-image: url('bg.jpg');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+hr{
+    border-top: 10px dashed rgba(19, 17, 65, 0.699);
+}
+.img1{
+    float: right;
+    margin-bottom: auto;
+    height: 170px;
+    width: 700px;
+}
+.img3{
+    height: 300px;
+    width: 400px;
+}
+a{
+    color: rgb(223, 220, 20);
+    width: 100px;
+    height: 50px;
+    padding-right: 100px;
+    font-size: x-large;
+   
+
+}
+.img4{
+    float: left;
+    width: 150px;
+    height: 100px;
+}
+
+   

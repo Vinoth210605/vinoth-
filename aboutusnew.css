@@ -1,0 +1,37 @@
+body{
+    background-image: url('sssss1.png');
+
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1{
+ font-style: italic;
+ color: rgb(255, 255, 255);
+}
+u{
+    color: white;
+}
+footer{
+    background-color: rgba(247, 26, 26, 0);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 1rem;
+    position-anchor: center;
+    width: 100;
+    bottom: 0;
+}
+.img5{
+    border-radius: 45px;
+    border: solid;
+    border-color: rgb(255, 255, 255);
+    border-width: 3px;
+}
+a{
+    color: rgb(17, 222, 48);
+    width: 50px;
+    height: 50px;
+    padding-right: 100px;
+    font-size: x-large;
+   
+}
